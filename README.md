@@ -2,7 +2,7 @@
 
 > “天空不属于任何边界，它属于每一个敢于仰望的人。”
 
-为 Minecraft PE 0.14.x 服务器打造的天域生成器
+为 Minecraft PE 0.14.x及更高版本的 服务器打造的天域生成器
 
 大部分移植自[OldGenerator](https://github.com/Spottedleaf/OldGenerator)项目（仅根据理解反混淆小部分）。
 
