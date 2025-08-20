@@ -28,13 +28,13 @@ use SkyGenerator\noise\b173\NoiseGeneratorOctaves;
 use SkyGenerator\noise\b173\NoiseGeneratorOctaves2;
 use pocketmine\level\generator\object\OreType;
 use pocketmine\level\generator\object\OakTree;
-use pocketmine\level\generator\populator\Cave;
 use pocketmine\level\generator\populator\GroundCover;
 use pocketmine\level\generator\populator\Ore;
 
 use pocketmine\level\generator\populator\Flower;
 use SkyGenerator\populator\Lakes;
 use SkyGenerator\populator\Liquids;
+use SkyGenerator\populator\Cave;
 use SkyGenerator\populator\Pumpkin;
 use pocketmine\level\generator\populator\Sugarcane;
 
